@@ -1,0 +1,26 @@
+/*TEXT SECTION*/
+.h1{
+    Font-family:Helvetica;
+    Font-size:32px;
+}
+
+.h2{
+    Font-family:arial;
+    font-size:10em;
+}
+
+.p{
+    Font-family:arial;
+    Font-size: 8px;
+}
+/*END TEXT*/
+
+
+/*FORM*/
+#newsletter{
+    width: 300px;
+    margin: 200px;
+    border: inherit;
+    border-radius: 70%; 
+}
+/*END FORM*/
