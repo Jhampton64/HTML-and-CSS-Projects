@@ -136,7 +136,7 @@ section{
 /*HOME SECTION STYLES*/
 
 #home{
-    background: url(../images/elements.jpg) no-repeat 50% 50%;
+    background: url("elements.jpg") no-repeat 50% 50%;
     -webkit-background-size: cover;
     -moz-background-size:cover;
     -o-backgrund-size: cover;
